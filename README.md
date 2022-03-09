@@ -33,7 +33,7 @@ make
 http:// 120.25.155.134:10000 / index.html
 ```
 
-![result](E:\projects\LeptServer\result.png)
+![result](https://github.com/herui-ares/Lept-web-server/blob/main/result.png)
 
 **Highlights：**
 
