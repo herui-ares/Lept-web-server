@@ -27,8 +27,6 @@ make
 ./webserver 10000
 ```
 
-[![usage_sample](https://github.com/M3stark/LeptHttp/raw/main/resources/screenshoot/usage_sample.png)](https://github.com/M3stark/LeptHttp/blob/main/resources/screenshoot/usage_sample.png)
-
 - Open the browser, input the the resources.
 
 ```
